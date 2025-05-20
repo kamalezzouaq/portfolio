@@ -79,8 +79,8 @@ def classify_comment(comment):
 # 🌐 Reddit API Config
 # ---------------------------
 reddit = praw.Reddit(
-    client_id="ki6Z4PMLOTbsm3RgfBLiBQ",
-    client_secret="1eaghLUyeWvn-vxUYiEbisJHq3ZXoQ",
+    client_id="",
+    client_secret="",
     user_agent="nlp_scraper_v1"
 )
 
